@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Development, AI/ML projects & scalable backend systems  <br>👯 I’m looking to collaborate on open-source, MERN, Java Spring Boot & AI-based projects  <br>🤝 I’m looking for help with advanced DSA, system design & production-level AI engineering  <br>🌱 I’m currently learning Kafka, Microservices & Machine Learning  <br>💬 Ask me about UI/UX Design, AI/ML, Full-Stack Dev & ECE ☕  <br>⚡ Fun fact: I can design your app, build the backend, train the model, and still procrastinate for 3 hours straight  <br>
+🔭 I’m currently working on Full-Stack Development, AI/ML projects & scalable backend systems  <br>👯 I’m looking to collaborate on open-source, Java Spring Boot & AI-based projects  <br>🤝 I’m looking for help with advanced DSA, system design & production-level AI engineering  <br>🌱 I’m currently learning Kafka, Microservices & Machine Learning  <br>💬 Ask me about UI/UX Design, AI/ML, Full-Stack Dev & ECE ☕  <br>⚡ Fun fact: I can design your app, build the backend, train the model, and still procrastinate for 3 hours straight  <br>
 
 
 ## 🌐 Socials:
